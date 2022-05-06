@@ -1,2 +1,3 @@
+2
 background-1.jpg foreground-1.jpg 146 116 270 118 123 145 251 148 0.5
 background-2.jpg foreground-2.jpg 182 46 286 92 182 298 286 258 0.8
